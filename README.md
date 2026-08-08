@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an aspiring Aerospace Engineer and future Backend Developer passionate about building and exploring the technology behind spaceflight systems.<br>I don't use Github often.
+I'm an aspiring Aerospace Engineer and 3D Modeler who likes beans.<br>I don't use Github often.
 
 
 ## 🌐 Socials:
